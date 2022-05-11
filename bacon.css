@@ -1,0 +1,14 @@
+#h1{
+    color: red;
+}
+.baconpic{
+    background-color: brown;
+}
+.baconpic:hover{
+    height: 400px;
+    width: 300px;
+    background-color: gold;
+}
+body{
+    background-color:green;
+}
